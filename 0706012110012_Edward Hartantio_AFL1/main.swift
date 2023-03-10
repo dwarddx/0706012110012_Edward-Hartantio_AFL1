@@ -160,7 +160,7 @@ Your choice?
             print("You healing di Bromo")
             print("")
         case 5:
-            print("Scanning the enemy using your Samsung S23 Ultra")
+            print("Scanning the enemy using your Samsung S23 Ultra Zoom")
         case 6:
             print(fleeT)
             while let inputCon = readLine(){
